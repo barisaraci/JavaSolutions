@@ -1,5 +1,10 @@
 <b> Java Solutions </b>
 <hr>
+Ultimate Monopoloy (Software Engineering Project) - 2017
+</br>
+A full implementation of the Ultimate Monopoly which has a three-story board (I got an A on the project)
+https://jonizaak.deviantart.com/
+</br></br></br>
 Daily Tents (CS 222 Homework) - 2015
 </br>
 Java version of a puzzle game Daily Tents which can be found in https://www.brainbashers.com/tents.asp
