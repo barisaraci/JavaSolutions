@@ -7,11 +7,11 @@ https://jonizaak.deviantart.com/
 </br></br></br>
 Daily Tents (CS 222 Homework) - 2015
 </br>
-Java version of a puzzle game Daily Tents which can be found in https://www.brainbashers.com/tents.asp
+Java version of a puzzle game Daily Tents which can be found in https://www.brainbashers.com/tents.asp (I got an A on the project)
 </br></br></br>
 Cell Game (CS 102 Project) - 2015
 </br>
-A school project developed with Java. 
+A school project developed with Java. (I got an A on the project)
 </br>
 Timelapse of making: https://youtu.be/A8JtQK8bzNg
 </br></br></br>
